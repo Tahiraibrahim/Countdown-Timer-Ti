@@ -1,0 +1,23 @@
+{
+  "name": "ti-countdown-timer-by-ti",
+  "version": "2.0.3",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira Ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
